@@ -14,7 +14,7 @@ Image = <string> - The icon of the notification.
 Time = <number> - The duration of the notfication.
 ]]
 
-local Window = OrionLib:MakeWindow({Name = "Cerium Script Hub", HidePremium = false,IntroText = "Cerium X SH SaveConfig = False, ConfigFolder = "Cerium"})
+local Window = OrionLib:MakeWindow({Name = "Cerium Script Hub", HidePremium = false, IntroText = "Cerium X SH" SaveConfig = False, ConfigFolder = "Cerium"})
 
 --[[
 Name = <string> - The name of the UI.
